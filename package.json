@@ -1,0 +1,17 @@
+{
+  "name": "gong",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Bobby Yankou <thisisjackolantern@gmail.com>",
+  "description": "Rings office gongs.",
+  "dependencies": {
+    "hubot": "^2.11.2",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-scripts": "^2.5.16",
+    "hubot-slack": "^3.3.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
